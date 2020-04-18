@@ -1,4 +1,5 @@
-/*PA0 bacagina potansiyometre ADC ve degerini degistirirsek ledlerin parlakligi degisecek*/
+/* PA0 bacagina potansiyometre ADC okumasindan aldigimiz degerlere gore PWM ile farkli elektriksel gerilimlere donusturerek
+   ledlerin parlakligi degistirecegiz */
 
 #include "stm32f4xx.h"
 #include "stm32f4_discovery.h"
